@@ -1,7 +1,4 @@
-Voicila Alexandra, 322CD
-
-Rezolvarea temei a pornit de la modificarea laboratoarelor 8, respectiv 6.
-Tema contine fisierele: -server.c pentru implementarea serverului
+Proiectul contine fisierele: -server.c pentru implementarea serverului
                         -subscriber.c pentru implementarea clientilor tcp
                         -helpers.c pentru functiile ajutatoare de lucrat pe 
                         liste si de generat mesaje de eroare si pentru structuri
